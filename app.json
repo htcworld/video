@@ -1,0 +1,5 @@
+{
+  "name": "server rtmp",
+  "description": "A server side element to broker connections between PeerJS clients.",
+  "website": "http://videostriming.com/"
+}
